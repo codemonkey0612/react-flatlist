@@ -5,3 +5,5 @@ tools
 coverage
 *.tgz
 npm-debug.log
+temp_auto_push.bat
+temp_interactive_push.bat
